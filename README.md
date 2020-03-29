@@ -8,7 +8,7 @@ btcmax.com also lists Perpetual contract pairs. You can find the APIs here. [Per
 
 BTCMAX website https://btcmax.com
 
-BTCMAX API domain https://api.btcmax.com https://api.btcmax.me
+BTCMAX API domain https://api.btcmax.com
 
 ## SDKs
 [PHP](https://github.com/btcmax-dev/btcmax/blob/master/php-sdk) [JAVA](https://github.com/btcmax-dev/btcmax/blob/master/java-sdk) [Python](https://github.com/btcmax-dev/btcmax/blob/master/python-sdk) [GO](https://github.com/btcmax-dev/btcmax/blob/master/golang-sdk) [NodeJS](https://github.com/btcmax-dev/btcmax/blob/master/nodejs-sdk)
