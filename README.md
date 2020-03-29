@@ -2,7 +2,7 @@
 
 The btcmax.com exchange APIs consists of the apis for public datas and apis for trading operations. 
 
-btcmax.com also lists Perpetual contract pairs. You can find the APIs here. [Perpetual contract APIs](https://github.com/btcmax-dev/btcmax/tree/master/btcmax-mx-api-docs)
+
 
 ## The Domain List
 
